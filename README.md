@@ -1,4 +1,4 @@
-# react-redux-boilerplate-kit
+# react-redux-stater-kit
 
 ```bash
 $ git clone https://github.com/dongpv-vn/react-redux-boilerplate-kit
@@ -19,7 +19,7 @@ $ npm start                     # Compile and launch
     ├── constants
     │    └── ActionTypes.js
     ├── containers
-    │    └── App.js
+    │    └── Home.js
     ├── reducers
     │    ├── index.js
     │    └── users.js
